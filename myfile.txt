@@ -1,1 +1,2 @@
 nhung cau lenh dau tien trong Git
+dang ki thay doi add o index
